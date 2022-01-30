@@ -1,7 +1,7 @@
 {
-  "name": "virtual-office",
+  "name": "fullstack-gql-demo",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "author": "Victor Bezak <victorjbezak@gmail.com>",
   "license": "MIT",
   "scripts": {
